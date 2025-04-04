@@ -1,0 +1,33 @@
+.card {
+    width: 387px;
+    height: 561px;
+    margin-top: 6%;
+    margin-left: 38%;
+    background-color: rgba(0, 69, 133, 0.12) !important;
+    align-content: space-around;
+    text-align: center;
+    border-radius: 18px !important;
+}
+
+.textField {
+    background-color: rgba(36, 56, 78, 255);
+    color: white !important;
+    margin-bottom: 36px !important;
+    width: 307px;
+    border-radius: 6px;
+}
+
+.button {
+    width: 307px;
+    height: 62px;
+    margin-left: 30px !important;
+    display: flex;
+    background-color: rgba(31, 73, 110, 255) !important;
+}
+
+.forgotPassword {
+    text-align: right;
+    margin-top: -20px;
+    text-decoration: underline;
+    margin-right: 25px;
+}
